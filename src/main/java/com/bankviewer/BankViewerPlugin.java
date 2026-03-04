@@ -27,8 +27,7 @@ import net.runelite.client.util.ImageUtil;
 @PluginDescriptor(
 	name = "Bank Viewer",
 	description = "Displays your bank contents in a side panel with live quantity updates",
-	tags = {"bank", "items", "inventory", "storage", "viewer"},
-	enabledByDefault = false
+	tags = {"bank", "items", "inventory", "storage", "viewer"}
 )
 public class BankViewerPlugin extends Plugin
 {
